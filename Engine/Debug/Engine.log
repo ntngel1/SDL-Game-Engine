@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Kirill\Desktop\Engine\Engine\main.cpp(17,9): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kirill\Desktop\Engine\Engine\main.cpp(21,26): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kirill\Desktop\Engine\Engine\main.cpp(22,32): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+  Engine.vcxproj -> C:\Users\Kirill\Desktop\Engine\Debug\Engine.exe
